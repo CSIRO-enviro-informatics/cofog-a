@@ -1,0 +1,30 @@
+@prefix : <http://linked.data.gov.au/def/cofog-a/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+
+
+<http://linked.data.gov.au/def/cofog-a> a skos:ConceptScheme ;
+    dct:creator <http://catalogue.linked.data.gov.au/org/abs> ;
+    dc:creator "Australian Bureau of Statistics" ;
+    dc:contributor "Nicholas J. Car" ;
+    dct:contributor <https://orcid.org/0000-0002-8742-7730> ;
+    dct:created "2015-12-23"^^xsd:date ;
+    dct:description """The classification of the functions of government - Australia (COFOG-A) framework is designed to classify the expenditure of commonwealth, state / territory and local governments by purpose for the general government sector.
+
+The COFOG-A framework has been designed so that users can classify individual transactions according to the primary purpose of the outlay. Users need to consider the main objectives of government when they are deciding how to classify certain transactions. In the situation where a government unit has more than one function (which may make it difficult to allocate individual transactions), users need to determine which function is the dominant function of the unit.""";
+    dct:source <http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/418BDDEBD088A012CA257F230019D433/$File/55140_2015.pdf> ;
+    skos:hasTopConcept
+        :1,
+        :2,
+        :3,
+        :4,
+        :5,
+        :6,
+        :7,
+        :8,
+        :9,
+        :10,
+        :11 ;
+    skos:prefLabel "Classification of the Functions of Government - Australia"^^xsd:string .

@@ -1,0 +1,228 @@
+<http://linked.data.gov.au/def/cofog-a/01> a skos:Concept ;skos:prefLabel "General Public Services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "01" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/011> a skos:Concept ;skos:prefLabel "Executive and legislative organs,  financial and fiscal affairs, external affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "011" ;.
+<http://linked.data.gov.au/def/cofog-a/0111> a skos:Concept ;skos:prefLabel "Executive and legislative organs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0111" ;.
+<http://linked.data.gov.au/def/cofog-a/0112> a skos:Concept ;skos:prefLabel "Financial and fiscal affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0112" ;.
+<http://linked.data.gov.au/def/cofog-a/0113> a skos:Concept ;skos:prefLabel "External affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0113" ;.
+<http://linked.data.gov.au/def/cofog-a/012> a skos:Concept ;skos:prefLabel "Foreign economic aid"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "012" ;.
+<http://linked.data.gov.au/def/cofog-a/0121> a skos:Concept ;skos:prefLabel "Economic aid to developing countries and countries in transition"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0121" ;.
+<http://linked.data.gov.au/def/cofog-a/0122> a skos:Concept ;skos:prefLabel "Economic aid routed through international organisations"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0122" ;.
+<http://linked.data.gov.au/def/cofog-a/013> a skos:Concept ;skos:prefLabel "General services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "013" ;.
+<http://linked.data.gov.au/def/cofog-a/0131> a skos:Concept ;skos:prefLabel "General personnel services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0131" ;.
+<http://linked.data.gov.au/def/cofog-a/0132> a skos:Concept ;skos:prefLabel "Overall planning and statistical services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0132" ;.
+<http://linked.data.gov.au/def/cofog-a/0139> a skos:Concept ;skos:prefLabel "General services not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0139" ;.
+<http://linked.data.gov.au/def/cofog-a/014> a skos:Concept ;skos:prefLabel "Basic research"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "014" ;.
+<http://linked.data.gov.au/def/cofog-a/0141> a skos:Concept ;skos:prefLabel "Basic research"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0141" ;.
+<http://linked.data.gov.au/def/cofog-a/015> a skos:Concept ;skos:prefLabel "Research and development - general public services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "015" ;.
+<http://linked.data.gov.au/def/cofog-a/0151> a skos:Concept ;skos:prefLabel "Research and development - general public services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0151" ;.
+<http://linked.data.gov.au/def/cofog-a/016> a skos:Concept ;skos:prefLabel "Public debt transactions"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "016" ;.
+<http://linked.data.gov.au/def/cofog-a/0161> a skos:Concept ;skos:prefLabel "Public debt transactions"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0161" ;.
+<http://linked.data.gov.au/def/cofog-a/017> a skos:Concept ;skos:prefLabel "Transfers of a general character between different levels of government"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "017" ;.
+<http://linked.data.gov.au/def/cofog-a/0171> a skos:Concept ;skos:prefLabel "Transfers of a general character between different levels of government"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0171" ;.
+<http://linked.data.gov.au/def/cofog-a/019> a skos:Concept ;skos:prefLabel "General public services not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "019" ;.
+<http://linked.data.gov.au/def/cofog-a/0199> a skos:Concept ;skos:prefLabel "General public services not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0199" ;.
+<http://linked.data.gov.au/def/cofog-a/02> a skos:Concept ;skos:prefLabel "Defence"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "02" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/021> a skos:Concept ;skos:prefLabel "Military and civil defence"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "021" ;.
+<http://linked.data.gov.au/def/cofog-a/0211> a skos:Concept ;skos:prefLabel "Military defence"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0211" ;.
+<http://linked.data.gov.au/def/cofog-a/0212> a skos:Concept ;skos:prefLabel "Civil defence"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0212" ;.
+<http://linked.data.gov.au/def/cofog-a/022> a skos:Concept ;skos:prefLabel "Foreign military aid"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "022" ;.
+<http://linked.data.gov.au/def/cofog-a/0221> a skos:Concept ;skos:prefLabel "Foreign military aid"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0221" ;.
+<http://linked.data.gov.au/def/cofog-a/023> a skos:Concept ;skos:prefLabel "Research and development - defence"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "023" ;.
+<http://linked.data.gov.au/def/cofog-a/0231> a skos:Concept ;skos:prefLabel "Research and development - defence"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0231" ;.
+<http://linked.data.gov.au/def/cofog-a/029> a skos:Concept ;skos:prefLabel "Defence not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "029" ;.
+<http://linked.data.gov.au/def/cofog-a/0299> a skos:Concept ;skos:prefLabel "Defence not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0299" ;.
+<http://linked.data.gov.au/def/cofog-a/03> a skos:Concept ;skos:prefLabel "Public Order And Safety"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "03" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/031> a skos:Concept ;skos:prefLabel "Police services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "031" ;.
+<http://linked.data.gov.au/def/cofog-a/0311> a skos:Concept ;skos:prefLabel "Police services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0311" ;.
+<http://linked.data.gov.au/def/cofog-a/032> a skos:Concept ;skos:prefLabel "Civil and fire protection services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "032" ;.
+<http://linked.data.gov.au/def/cofog-a/0321> a skos:Concept ;skos:prefLabel "Civil protection services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0321" ;.
+<http://linked.data.gov.au/def/cofog-a/0322> a skos:Concept ;skos:prefLabel "Fire protection services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0322" ;.
+<http://linked.data.gov.au/def/cofog-a/033> a skos:Concept ;skos:prefLabel "Law courts"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "033" ;.
+<http://linked.data.gov.au/def/cofog-a/0331> a skos:Concept ;skos:prefLabel "Law courts"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0331" ;.
+<http://linked.data.gov.au/def/cofog-a/034> a skos:Concept ;skos:prefLabel "Prisons"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "034" ;.
+<http://linked.data.gov.au/def/cofog-a/0341> a skos:Concept ;skos:prefLabel "Prisons"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0341" ;.
+<http://linked.data.gov.au/def/cofog-a/035> a skos:Concept ;skos:prefLabel "Research and development - public order and safety"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "035" ;.
+<http://linked.data.gov.au/def/cofog-a/0351> a skos:Concept ;skos:prefLabel "Research and development - public order and safety"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0351" ;.
+<http://linked.data.gov.au/def/cofog-a/039> a skos:Concept ;skos:prefLabel "Public order and safety not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "039" ;.
+<http://linked.data.gov.au/def/cofog-a/0391> a skos:Concept ;skos:prefLabel "Control of domestic animals and livestock"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0391" ;.
+<http://linked.data.gov.au/def/cofog-a/0399> a skos:Concept ;skos:prefLabel "Public order and safety not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0399" ;.
+<http://linked.data.gov.au/def/cofog-a/04> a skos:Concept ;skos:prefLabel "Economic Affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "04" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/041> a skos:Concept ;skos:prefLabel "General economic. Commercial"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "041" ;.
+<http://linked.data.gov.au/def/cofog-a/0411> a skos:Concept ;skos:prefLabel "General economic and commercial affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0411" ;.
+<http://linked.data.gov.au/def/cofog-a/0412> a skos:Concept ;skos:prefLabel "General labour affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0412" ;.
+<http://linked.data.gov.au/def/cofog-a/042> a skos:Concept ;skos:prefLabel "Agriculture, forestry,  fishing and hunting"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "042" ;.
+<http://linked.data.gov.au/def/cofog-a/0421> a skos:Concept ;skos:prefLabel "Agriculture"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0421" ;.
+<http://linked.data.gov.au/def/cofog-a/0422> a skos:Concept ;skos:prefLabel "Forestry"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0422" ;.
+<http://linked.data.gov.au/def/cofog-a/0423> a skos:Concept ;skos:prefLabel "Fishing and hunting"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0423" ;.
+<http://linked.data.gov.au/def/cofog-a/043> a skos:Concept ;skos:prefLabel "Fuel and energy"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "043" ;.
+<http://linked.data.gov.au/def/cofog-a/0431> a skos:Concept ;skos:prefLabel "Coal and other solid mineral fuels"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0431" ;.
+<http://linked.data.gov.au/def/cofog-a/0432> a skos:Concept ;skos:prefLabel "Petroleum and natural gas"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0432" ;.
+<http://linked.data.gov.au/def/cofog-a/0433> a skos:Concept ;skos:prefLabel "Nuclear fuel"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0433" ;.
+<http://linked.data.gov.au/def/cofog-a/0434> a skos:Concept ;skos:prefLabel "Other fuels"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0434" ;.
+<http://linked.data.gov.au/def/cofog-a/0435> a skos:Concept ;skos:prefLabel "Electricity"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0435" ;.
+<http://linked.data.gov.au/def/cofog-a/0436> a skos:Concept ;skos:prefLabel "Non-electric energy"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0436" ;.
+<http://linked.data.gov.au/def/cofog-a/0439> a skos:Concept ;skos:prefLabel "Fuel and energy not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0439" ;.
+<http://linked.data.gov.au/def/cofog-a/044> a skos:Concept ;skos:prefLabel "Mining, manufacturing and construction"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "044" ;.
+<http://linked.data.gov.au/def/cofog-a/0441> a skos:Concept ;skos:prefLabel "Mining of mineral resources other than mineral fuels"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0441" ;.
+<http://linked.data.gov.au/def/cofog-a/0442> a skos:Concept ;skos:prefLabel "Manufacturing"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0442" ;.
+<http://linked.data.gov.au/def/cofog-a/0443> a skos:Concept ;skos:prefLabel "Construction"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0443" ;.
+<http://linked.data.gov.au/def/cofog-a/045> a skos:Concept ;skos:prefLabel "Communication"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "045" ;.
+<http://linked.data.gov.au/def/cofog-a/0451> a skos:Concept ;skos:prefLabel "Communication"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0451" ;.
+<http://linked.data.gov.au/def/cofog-a/046> a skos:Concept ;skos:prefLabel "Other industries"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "046" ;.
+<http://linked.data.gov.au/def/cofog-a/0461> a skos:Concept ;skos:prefLabel "Distributive trades, storage and warehousing"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0461" ;.
+<http://linked.data.gov.au/def/cofog-a/0462> a skos:Concept ;skos:prefLabel "Hotels and restaurants"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0462" ;.
+<http://linked.data.gov.au/def/cofog-a/0463> a skos:Concept ;skos:prefLabel "Tourism"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0463" ;.
+<http://linked.data.gov.au/def/cofog-a/0464> a skos:Concept ;skos:prefLabel "Multipurpose development projects"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0464" ;.
+<http://linked.data.gov.au/def/cofog-a/047> a skos:Concept ;skos:prefLabel "Research and development - economic affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "047" ;.
+<http://linked.data.gov.au/def/cofog-a/0471> a skos:Concept ;skos:prefLabel "Research and development - general economic, commercial and labour affairs"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0471" ;.
+<http://linked.data.gov.au/def/cofog-a/0472> a skos:Concept ;skos:prefLabel "Research and development - agriculture, forestry,  fishing and hunting"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0472" ;.
+<http://linked.data.gov.au/def/cofog-a/0473> a skos:Concept ;skos:prefLabel "Research and development - fuel and energy"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0473" ;.
+<http://linked.data.gov.au/def/cofog-a/0474> a skos:Concept ;skos:prefLabel "Research and development - mining, manufacturing and construction"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0474" ;.
+<http://linked.data.gov.au/def/cofog-a/0475> a skos:Concept ;skos:prefLabel "Research and development - communication"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0475" ;.
+<http://linked.data.gov.au/def/cofog-a/0476> a skos:Concept ;skos:prefLabel "Research and development - other industries"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0476" ;.
+<http://linked.data.gov.au/def/cofog-a/049> a skos:Concept ;skos:prefLabel "Economic affairs not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "049" ;.
+<http://linked.data.gov.au/def/cofog-a/0499> a skos:Concept ;skos:prefLabel "Economic affairs not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0499" ;.
+<http://linked.data.gov.au/def/cofog-a/05> a skos:Concept ;skos:prefLabel "Environmental Protection"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "05" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/051> a skos:Concept ;skos:prefLabel "Waste management"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "051" ;.
+<http://linked.data.gov.au/def/cofog-a/0511> a skos:Concept ;skos:prefLabel "Waste recycling"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0511" ;.
+<http://linked.data.gov.au/def/cofog-a/0519> a skos:Concept ;skos:prefLabel "Waste management not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0519" ;.
+<http://linked.data.gov.au/def/cofog-a/052> a skos:Concept ;skos:prefLabel "Waste water management"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "052" ;.
+<http://linked.data.gov.au/def/cofog-a/0521> a skos:Concept ;skos:prefLabel "Reused or recycled waste water management"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0521" ;.
+<http://linked.data.gov.au/def/cofog-a/0529> a skos:Concept ;skos:prefLabel "Waste water management not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0529" ;.
+<http://linked.data.gov.au/def/cofog-a/053> a skos:Concept ;skos:prefLabel "Pollution abatement"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "053" ;.
+<http://linked.data.gov.au/def/cofog-a/0531> a skos:Concept ;skos:prefLabel "Pollution abatement"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0531" ;.
+<http://linked.data.gov.au/def/cofog-a/054> a skos:Concept ;skos:prefLabel "Protection of biodiversity and landscape"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "054" ;.
+<http://linked.data.gov.au/def/cofog-a/0541> a skos:Concept ;skos:prefLabel "Protection of biodiversity and landscape"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0541" ;.
+<http://linked.data.gov.au/def/cofog-a/055> a skos:Concept ;skos:prefLabel "Research and development - environmental protection"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "055" ;.
+<http://linked.data.gov.au/def/cofog-a/0551> a skos:Concept ;skos:prefLabel "Research and development - environmental protection"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0551" ;.
+<http://linked.data.gov.au/def/cofog-a/059> a skos:Concept ;skos:prefLabel "Environmental protection not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "059" ;.
+<http://linked.data.gov.au/def/cofog-a/0599> a skos:Concept ;skos:prefLabel "Environmental protection not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0599" ;.
+<http://linked.data.gov.au/def/cofog-a/06> a skos:Concept ;skos:prefLabel "Housing And Community Amenities"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "06" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/061> a skos:Concept ;skos:prefLabel "Housing development"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "061" ;.
+<http://linked.data.gov.au/def/cofog-a/0611> a skos:Concept ;skos:prefLabel "Housing development"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0611" ;.
+<http://linked.data.gov.au/def/cofog-a/062> a skos:Concept ;skos:prefLabel "Community development"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "062" ;.
+<http://linked.data.gov.au/def/cofog-a/0621> a skos:Concept ;skos:prefLabel "Indigenous community development"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0621" ;.
+<http://linked.data.gov.au/def/cofog-a/0629> a skos:Concept ;skos:prefLabel "Community development not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0629" ;.
+<http://linked.data.gov.au/def/cofog-a/063> a skos:Concept ;skos:prefLabel "Water supply"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "063" ;.
+<http://linked.data.gov.au/def/cofog-a/0631> a skos:Concept ;skos:prefLabel "Water supply"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0631" ;.
+<http://linked.data.gov.au/def/cofog-a/064> a skos:Concept ;skos:prefLabel "Street lighting"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "064" ;.
+<http://linked.data.gov.au/def/cofog-a/0641> a skos:Concept ;skos:prefLabel "Street lighting"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0641" ;.
+<http://linked.data.gov.au/def/cofog-a/065> a skos:Concept ;skos:prefLabel "Research and development - housing and community amenities"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "065" ;.
+<http://linked.data.gov.au/def/cofog-a/0651> a skos:Concept ;skos:prefLabel "Research and development - housing and community amenities"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0651" ;.
+<http://linked.data.gov.au/def/cofog-a/069> a skos:Concept ;skos:prefLabel "Housing and community amenities not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "069" ;.
+<http://linked.data.gov.au/def/cofog-a/0698> a skos:Concept ;skos:prefLabel "Housing not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0698" ;.
+<http://linked.data.gov.au/def/cofog-a/0699> a skos:Concept ;skos:prefLabel "Community amenities not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0699" ;.
+<http://linked.data.gov.au/def/cofog-a/07> a skos:Concept ;skos:prefLabel "Health"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "07" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/071> a skos:Concept ;skos:prefLabel "Medical products, appliances and equipment"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "071" ;.
+<http://linked.data.gov.au/def/cofog-a/0711> a skos:Concept ;skos:prefLabel "Pharmaceutical products"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0711" ;.
+<http://linked.data.gov.au/def/cofog-a/0712> a skos:Concept ;skos:prefLabel "Other medical products"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0712" ;.
+<http://linked.data.gov.au/def/cofog-a/0713> a skos:Concept ;skos:prefLabel "Therapeutic appliances and equipment"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0713" ;.
+<http://linked.data.gov.au/def/cofog-a/072> a skos:Concept ;skos:prefLabel "Outpatient services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "072" ;.
+<http://linked.data.gov.au/def/cofog-a/0721> a skos:Concept ;skos:prefLabel "General medical services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0721" ;.
+<http://linked.data.gov.au/def/cofog-a/0722> a skos:Concept ;skos:prefLabel "Specialised medical services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0722" ;.
+<http://linked.data.gov.au/def/cofog-a/0723> a skos:Concept ;skos:prefLabel "Dental services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0723" ;.
+<http://linked.data.gov.au/def/cofog-a/0724> a skos:Concept ;skos:prefLabel "Paramedical services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0724" ;.
+<http://linked.data.gov.au/def/cofog-a/073> a skos:Concept ;skos:prefLabel "Hospital services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "073" ;.
+<http://linked.data.gov.au/def/cofog-a/0731> a skos:Concept ;skos:prefLabel "General hospital services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0731" ;.
+<http://linked.data.gov.au/def/cofog-a/0732> a skos:Concept ;skos:prefLabel "Specialised hospital services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0732" ;.
+<http://linked.data.gov.au/def/cofog-a/0733> a skos:Concept ;skos:prefLabel "Medical and maternity centre services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0733" ;.
+<http://linked.data.gov.au/def/cofog-a/0734> a skos:Concept ;skos:prefLabel "Nursing and convalescent home services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0734" ;.
+<http://linked.data.gov.au/def/cofog-a/074> a skos:Concept ;skos:prefLabel "Mental health institutions"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "074" ;.
+<http://linked.data.gov.au/def/cofog-a/0741> a skos:Concept ;skos:prefLabel "Mental health institutions"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0741" ;.
+<http://linked.data.gov.au/def/cofog-a/075> a skos:Concept ;skos:prefLabel "Community health services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "075" ;.
+<http://linked.data.gov.au/def/cofog-a/0751> a skos:Concept ;skos:prefLabel "Community mental health services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0751" ;.
+<http://linked.data.gov.au/def/cofog-a/0752> a skos:Concept ;skos:prefLabel "Patient transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0752" ;.
+<http://linked.data.gov.au/def/cofog-a/0759> a skos:Concept ;skos:prefLabel "Community health services not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0759" ;.
+<http://linked.data.gov.au/def/cofog-a/076> a skos:Concept ;skos:prefLabel "Public health services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "076" ;.
+<http://linked.data.gov.au/def/cofog-a/0761> a skos:Concept ;skos:prefLabel "Public health services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0761" ;.
+<http://linked.data.gov.au/def/cofog-a/077> a skos:Concept ;skos:prefLabel "Research and development - health"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "077" ;.
+<http://linked.data.gov.au/def/cofog-a/0771> a skos:Concept ;skos:prefLabel "Research and development - health"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0771" ;.
+<http://linked.data.gov.au/def/cofog-a/079> a skos:Concept ;skos:prefLabel "Health not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "079" ;.
+<http://linked.data.gov.au/def/cofog-a/0799> a skos:Concept ;skos:prefLabel "Health not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0799" ;.
+<http://linked.data.gov.au/def/cofog-a/08> a skos:Concept ;skos:prefLabel "Recreation, Culture And Religion"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "08" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/081> a skos:Concept ;skos:prefLabel "Recreational and sporting services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "081" ;.
+<http://linked.data.gov.au/def/cofog-a/0811> a skos:Concept ;skos:prefLabel "Recreational and sporting services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0811" ;.
+<http://linked.data.gov.au/def/cofog-a/082> a skos:Concept ;skos:prefLabel "Cultural services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "082" ;.
+<http://linked.data.gov.au/def/cofog-a/0821> a skos:Concept ;skos:prefLabel "Film production services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0821" ;.
+<http://linked.data.gov.au/def/cofog-a/0829> a skos:Concept ;skos:prefLabel "Cultural services not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0829" ;.
+<http://linked.data.gov.au/def/cofog-a/083> a skos:Concept ;skos:prefLabel "Broadcasting and publishing services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "083" ;.
+<http://linked.data.gov.au/def/cofog-a/0831> a skos:Concept ;skos:prefLabel "Broadcasting services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0831" ;.
+<http://linked.data.gov.au/def/cofog-a/0832> a skos:Concept ;skos:prefLabel "Publishing services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0832" ;.
+<http://linked.data.gov.au/def/cofog-a/084> a skos:Concept ;skos:prefLabel "Religious and other community services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "084" ;.
+<http://linked.data.gov.au/def/cofog-a/0841> a skos:Concept ;skos:prefLabel "Religious and other community services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0841" ;.
+<http://linked.data.gov.au/def/cofog-a/085> a skos:Concept ;skos:prefLabel "Research and development - recreation, culture and religion"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "085" ;.
+<http://linked.data.gov.au/def/cofog-a/0851> a skos:Concept ;skos:prefLabel "Research and development - recreation, culture and religion"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0851" ;.
+<http://linked.data.gov.au/def/cofog-a/089> a skos:Concept ;skos:prefLabel "Recreation, culture and religion not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "089" ;.
+<http://linked.data.gov.au/def/cofog-a/0891> a skos:Concept ;skos:prefLabel "Community centres and halls"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0891" ;.
+<http://linked.data.gov.au/def/cofog-a/0899> a skos:Concept ;skos:prefLabel "Recreation,  culture and religion not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0899" ;.
+<http://linked.data.gov.au/def/cofog-a/09> a skos:Concept ;skos:prefLabel "Education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "09" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/091> a skos:Concept ;skos:prefLabel "Pre-primary and primary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "091" ;.
+<http://linked.data.gov.au/def/cofog-a/0911> a skos:Concept ;skos:prefLabel "Government pre-primary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0911" ;.
+<http://linked.data.gov.au/def/cofog-a/0912> a skos:Concept ;skos:prefLabel "Non-government pre-primary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0912" ;.
+<http://linked.data.gov.au/def/cofog-a/0913> a skos:Concept ;skos:prefLabel "Government primary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0913" ;.
+<http://linked.data.gov.au/def/cofog-a/0914> a skos:Concept ;skos:prefLabel "Non-government primary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0914" ;.
+<http://linked.data.gov.au/def/cofog-a/092> a skos:Concept ;skos:prefLabel "Secondary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "092" ;.
+<http://linked.data.gov.au/def/cofog-a/0921> a skos:Concept ;skos:prefLabel "Government secondary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0921" ;.
+<http://linked.data.gov.au/def/cofog-a/0922> a skos:Concept ;skos:prefLabel "Non-government secondary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0922" ;.
+<http://linked.data.gov.au/def/cofog-a/093> a skos:Concept ;skos:prefLabel "Tertiary education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "093" ;.
+<http://linked.data.gov.au/def/cofog-a/0931> a skos:Concept ;skos:prefLabel "University education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0931" ;.
+<http://linked.data.gov.au/def/cofog-a/0932> a skos:Concept ;skos:prefLabel "Vocational education and training (excluding apprenticeships and traineeships)"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0932" ;.
+<http://linked.data.gov.au/def/cofog-a/094> a skos:Concept ;skos:prefLabel "Education not definable by level"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "094" ;.
+<http://linked.data.gov.au/def/cofog-a/0941> a skos:Concept ;skos:prefLabel "Apprenticeships and traineeships"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0941" ;.
+<http://linked.data.gov.au/def/cofog-a/0949> a skos:Concept ;skos:prefLabel "Education not definable by level not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0949" ;.
+<http://linked.data.gov.au/def/cofog-a/095> a skos:Concept ;skos:prefLabel "Subsidiary services to education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "095" ;.
+<http://linked.data.gov.au/def/cofog-a/0951> a skos:Concept ;skos:prefLabel "Transportation of non-urban school students"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0951" ;.
+<http://linked.data.gov.au/def/cofog-a/0952> a skos:Concept ;skos:prefLabel "Transportation of other students"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0952" ;.
+<http://linked.data.gov.au/def/cofog-a/0959> a skos:Concept ;skos:prefLabel "Subsidiary services to education not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0959" ;.
+<http://linked.data.gov.au/def/cofog-a/096> a skos:Concept ;skos:prefLabel "Research and development - education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "096" ;.
+<http://linked.data.gov.au/def/cofog-a/0961> a skos:Concept ;skos:prefLabel "Research and development - education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0961" ;.
+<http://linked.data.gov.au/def/cofog-a/099> a skos:Concept ;skos:prefLabel "Education not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "099" ;.
+<http://linked.data.gov.au/def/cofog-a/0991> a skos:Concept ;skos:prefLabel "Special education"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0991" ;.
+<http://linked.data.gov.au/def/cofog-a/0999> a skos:Concept ;skos:prefLabel "Education not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "0999" ;.
+<http://linked.data.gov.au/def/cofog-a/10> a skos:Concept ;skos:prefLabel "Social Protection"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "10" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/100> a skos:Concept ;skos:prefLabel "Sickness and disability"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "100" ;.
+<http://linked.data.gov.au/def/cofog-a/1001> a skos:Concept ;skos:prefLabel "Sickness"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1001" ;.
+<http://linked.data.gov.au/def/cofog-a/1002> a skos:Concept ;skos:prefLabel "Disability"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1002" ;.
+<http://linked.data.gov.au/def/cofog-a/101> a skos:Concept ;skos:prefLabel "Old age"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "101" ;.
+<http://linked.data.gov.au/def/cofog-a/1011> a skos:Concept ;skos:prefLabel "Old age"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1011" ;.
+<http://linked.data.gov.au/def/cofog-a/102> a skos:Concept ;skos:prefLabel "Survivors"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "102" ;.
+<http://linked.data.gov.au/def/cofog-a/1021> a skos:Concept ;skos:prefLabel "Survivors"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1021" ;.
+<http://linked.data.gov.au/def/cofog-a/103> a skos:Concept ;skos:prefLabel "Family and children"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "103" ;.
+<http://linked.data.gov.au/def/cofog-a/1031> a skos:Concept ;skos:prefLabel "Family and children"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1031" ;.
+<http://linked.data.gov.au/def/cofog-a/104> a skos:Concept ;skos:prefLabel "Unemployment"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "104" ;.
+<http://linked.data.gov.au/def/cofog-a/1041> a skos:Concept ;skos:prefLabel "Unemployment"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1041" ;.
+<http://linked.data.gov.au/def/cofog-a/105> a skos:Concept ;skos:prefLabel "Housing"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "105" ;.
+<http://linked.data.gov.au/def/cofog-a/1051> a skos:Concept ;skos:prefLabel "Housing"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1051" ;.
+<http://linked.data.gov.au/def/cofog-a/106> a skos:Concept ;skos:prefLabel "Social exclusion not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "106" ;.
+<http://linked.data.gov.au/def/cofog-a/1069> a skos:Concept ;skos:prefLabel "Social exclusion not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1069" ;.
+<http://linked.data.gov.au/def/cofog-a/107> a skos:Concept ;skos:prefLabel "Research and development - social protection"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "107" ;.
+<http://linked.data.gov.au/def/cofog-a/1071> a skos:Concept ;skos:prefLabel "Research and development - social protection"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1071" ;.
+<http://linked.data.gov.au/def/cofog-a/109> a skos:Concept ;skos:prefLabel "Social protection not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "109" ;.
+<http://linked.data.gov.au/def/cofog-a/1091> a skos:Concept ;skos:prefLabel "Natural disaster relief"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1091" ;.
+<http://linked.data.gov.au/def/cofog-a/1099> a skos:Concept ;skos:prefLabel "Social protection not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1099" ;.
+<http://linked.data.gov.au/def/cofog-a/11> a skos:Concept ;skos:prefLabel "Transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "11" ;skos:topconceptOf <http://linked.data.gov.au/def/cofog-a> ;.
+<http://linked.data.gov.au/def/cofog-a/111> a skos:Concept ;skos:prefLabel "Road transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "111" ;.
+<http://linked.data.gov.au/def/cofog-a/1111> a skos:Concept ;skos:prefLabel "Road maintenance"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1111" ;.
+<http://linked.data.gov.au/def/cofog-a/1112> a skos:Concept ;skos:prefLabel "Road rehabilitation"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1112" ;.
+<http://linked.data.gov.au/def/cofog-a/1113> a skos:Concept ;skos:prefLabel "Road construction"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1113" ;.
+<http://linked.data.gov.au/def/cofog-a/1119> a skos:Concept ;skos:prefLabel "Road transport not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1119" ;.
+<http://linked.data.gov.au/def/cofog-a/112> a skos:Concept ;skos:prefLabel "Bus transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "112" ;.
+<http://linked.data.gov.au/def/cofog-a/1121> a skos:Concept ;skos:prefLabel "Urban bus transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1121" ;.
+<http://linked.data.gov.au/def/cofog-a/1122> a skos:Concept ;skos:prefLabel "Non-urban bus transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1122" ;.
+<http://linked.data.gov.au/def/cofog-a/113> a skos:Concept ;skos:prefLabel "Water transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "113" ;.
+<http://linked.data.gov.au/def/cofog-a/1131> a skos:Concept ;skos:prefLabel "Urban water transport passenger services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1131" ;.
+<http://linked.data.gov.au/def/cofog-a/1132> a skos:Concept ;skos:prefLabel "Urban water transport freight services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1132" ;.
+<http://linked.data.gov.au/def/cofog-a/1133> a skos:Concept ;skos:prefLabel "Non-urban water transport services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1133" ;.
+<http://linked.data.gov.au/def/cofog-a/114> a skos:Concept ;skos:prefLabel "Railway transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "114" ;.
+<http://linked.data.gov.au/def/cofog-a/1141> a skos:Concept ;skos:prefLabel "Urban railway transport services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1141" ;.
+<http://linked.data.gov.au/def/cofog-a/1142> a skos:Concept ;skos:prefLabel "Non-urban railway transport freight services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1142" ;.
+<http://linked.data.gov.au/def/cofog-a/1143> a skos:Concept ;skos:prefLabel "Non-urban railway transport passenger services"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1143" ;.
+<http://linked.data.gov.au/def/cofog-a/115> a skos:Concept ;skos:prefLabel "Air transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "115" ;.
+<http://linked.data.gov.au/def/cofog-a/1151> a skos:Concept ;skos:prefLabel "Air transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1151" ;.
+<http://linked.data.gov.au/def/cofog-a/116> a skos:Concept ;skos:prefLabel "Multi-mode urban transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "116" ;.
+<http://linked.data.gov.au/def/cofog-a/1161> a skos:Concept ;skos:prefLabel "Multi-mode urban transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1161" ;.
+<http://linked.data.gov.au/def/cofog-a/117> a skos:Concept ;skos:prefLabel "Pipeline and other transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "117" ;.
+<http://linked.data.gov.au/def/cofog-a/1171> a skos:Concept ;skos:prefLabel "Pipeline and other transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1171" ;.
+<http://linked.data.gov.au/def/cofog-a/118> a skos:Concept ;skos:prefLabel "Research and development - transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "118" ;.
+<http://linked.data.gov.au/def/cofog-a/1181> a skos:Concept ;skos:prefLabel "Research and development - transport"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1181" ;.
+<http://linked.data.gov.au/def/cofog-a/119> a skos:Concept ;skos:prefLabel "Transport not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "119" ;.
+<http://linked.data.gov.au/def/cofog-a/1199> a skos:Concept ;skos:prefLabel "Transport not elsewhere classified"@en ; skos:inScheme <http://linked.data.gov.au/def/cofog-a> ;skos:notation "1199" ;.
