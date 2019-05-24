@@ -1,5 +1,7 @@
-# COFOG-A in RDF
-This code repository contains am [RDF](https://www.w3.org/RDF/) representation of the  Classification of the functions of government - Australia (COFOG-A). The COFOG-A data is from the [Australian Bureau of Statistics](http://www.abs.gov.au)' [Australian System of Government Finance Statistics: Concepts, Sources and Methods](http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/418BDDEBD088A012CA257F230019D433/$File/55140_2015.pdf) and in an Australian-specific version of UN's [COFOG](https://unstats.un.org/unsd/iiss/Classification-of-the-Functions-of-Government-COFOG.ashx).
+# COFOG-A in SKOS
+This code repository contains a [SKOS](https://www.w3.org/TR/skos-primer/) representation of the  Classification of the functions of government - Australia (COFOG-A) - vocabulary. The COFOG-A data is from the [Australian Bureau of Statistics](http://www.abs.gov.au)' [Australian System of Government Finance Statistics: Concepts, Sources and Methods](http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/418BDDEBD088A012CA257F230019D433/$File/55140_2015.pdf) and in an Australian-specific version of UN's [COFOG](https://unstats.un.org/unsd/iiss/Classification-of-the-Functions-of-Government-COFOG.ashx).
+
+This SKOS representation is delivered using [RDF](https://www.w3.org/RDF/) as the data format which means it can be loaded into certain graph databases and queried, perhaps alongside other vocabularies and data.
 
 
 ## Repository Contents
